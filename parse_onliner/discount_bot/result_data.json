@@ -17,43 +17,15 @@
         "title": "HP 15s-eq1203ur 24D57EA",
         "link": "https://catalog.onliner.by/notebook/hp/24d57ea",
         "price_base": "2020.00 BYN",
-        "price_sale": "1880.00 BYN",
-        "discount_percent": 7
+        "price_sale": "1845.00 BYN",
+        "discount_percent": 9
     },
     {
         "title": "ASUS TUF Gaming A15 FX506IC-HN025W",
         "link": "https://catalog.onliner.by/notebook/asus/fx506ichn025w",
-        "price_base": "3747.37 BYN",
-        "price_sale": "3254.96 BYN",
-        "discount_percent": 13
-    },
-    {
-        "title": "Huawei MateBook D 15 BoD-WFH9",
-        "link": "https://catalog.onliner.by/notebook/huawei/bodwfh9",
-        "price_base": "2970.00 BYN",
-        "price_sale": "2729.91 BYN",
-        "discount_percent": 8
-    },
-    {
-        "title": "ASUS VivoBook 15 K513EA-L12236",
-        "link": "https://catalog.onliner.by/notebook/asus/k513eal12236",
-        "price_base": "4297.50 BYN",
-        "price_sale": "3597.00 BYN",
-        "discount_percent": 16
-    },
-    {
-        "title": "ASUS X415JF-BV131",
-        "link": "https://catalog.onliner.by/notebook/asus/x415jfbv131",
-        "price_base": "1335.00 BYN",
-        "price_sale": "1197.00 BYN",
-        "discount_percent": 10
-    },
-    {
-        "title": "Lenovo IdeaPad 3 17ITL6 82H90055RE",
-        "link": "https://catalog.onliner.by/notebook/lenovo/82h90055re",
-        "price_base": "2830.00 BYN",
-        "price_sale": "2509.50 BYN",
-        "discount_percent": 11
+        "price_base": "3595.45 BYN",
+        "price_sale": "3274.48 BYN",
+        "discount_percent": 9
     },
     {
         "title": "HP ENVY 13-ba1026ur 2N5K5EA",
@@ -73,7 +45,7 @@
         "title": "Lenovo V14-ADA 82C6005JRU",
         "link": "https://catalog.onliner.by/notebook/lenovo/82c6005jru",
         "price_base": "1008.00 BYN",
-        "price_sale": "932.40 BYN",
+        "price_sale": "930.00 BYN",
         "discount_percent": 8
     },
     {
@@ -84,32 +56,67 @@
         "discount_percent": 9
     },
     {
+        "title": "Acer Aspire 3 A315-23-R168 NX.HVUEU.00V",
+        "link": "https://catalog.onliner.by/notebook/acer/nxhvueu00v",
+        "price_base": "1878.75 BYN",
+        "price_sale": "1730.00 BYN",
+        "discount_percent": 8
+    },
+    {
         "title": "ASUS VivoBook 15 X571LH-BQ357",
         "link": "https://catalog.onliner.by/notebook/asus/x571lhbq357",
         "price_base": "4394.50 BYN",
-        "price_sale": "3080.00 BYN",
-        "discount_percent": 30
+        "price_sale": "2999.00 BYN",
+        "discount_percent": 32
     },
     {
         "title": "Lenovo V14-ADA 82C60059RU",
         "link": "https://catalog.onliner.by/notebook/lenovo/82c60059ru",
-        "price_base": "1237.00 BYN",
-        "price_sale": "1058.40 BYN",
-        "discount_percent": 14
+        "price_base": "1222.58 BYN",
+        "price_sale": "1032.55 BYN",
+        "discount_percent": 16
     },
     {
-        "title": "MSI Prestige 14Evo A12M-268XBY",
-        "link": "https://catalog.onliner.by/notebook/msi/a12m268xby",
-        "price_base": "3869.30 BYN",
-        "price_sale": "3499.00 BYN",
+        "title": "MSI Modern 14 B11MOU-1236XBY",
+        "link": "https://catalog.onliner.by/notebook/msi/b11mou1236xby",
+        "price_base": "2345.10 BYN",
+        "price_sale": "2116.00 BYN",
         "discount_percent": 10
     },
     {
-        "title": "MSI Prestige 14Evo A12M-270XBY",
-        "link": "https://catalog.onliner.by/notebook/msi/a12m270xby",
-        "price_base": "3869.30 BYN",
-        "price_sale": "3499.00 BYN",
+        "title": "MSI Modern 14 B11MOU-1235XBY",
+        "link": "https://catalog.onliner.by/notebook/msi/b11mou1235xby",
+        "price_base": "2575.00 BYN",
+        "price_sale": "2399.00 BYN",
+        "discount_percent": 7
+    },
+    {
+        "title": "MSI Modern 14 C12M-237XBY",
+        "link": "https://catalog.onliner.by/notebook/msi/c12m237xby",
+        "price_base": "2776.50 BYN",
+        "price_sale": "2593.00 BYN",
+        "discount_percent": 7
+    },
+    {
+        "title": "Lenovo IdeaPad Gaming 3 15ACH6 82K200NDPB",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82k200ndpb",
+        "price_base": "3395.00 BYN",
+        "price_sale": "2579.00 BYN",
+        "discount_percent": 24
+    },
+    {
+        "title": "Lenovo IdeaPad Gaming 3 15IHU6 82K100GCPB",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82k100gcpb",
+        "price_base": "2770.00 BYN",
+        "price_sale": "2500.00 BYN",
         "discount_percent": 10
+    },
+    {
+        "title": "Lenovo IdeaPad Gaming 3 15IHU6 82K101FAPB",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82k101fapb",
+        "price_base": "2485.00 BYN",
+        "price_sale": "2285.00 BYN",
+        "discount_percent": 8
     },
     {
         "title": "MSI Katana GF66 11UE-893XBY",
@@ -119,11 +126,18 @@
         "discount_percent": 7
     },
     {
+        "title": "Dell Inspiron 15 5515-3100",
+        "link": "https://catalog.onliner.by/notebook/dell/55153100",
+        "price_base": "3150.00 BYN",
+        "price_sale": "2468.49 BYN",
+        "discount_percent": 22
+    },
+    {
         "title": "ASUS ROG Zephyrus G14 GA402RK-L8171W",
         "link": "https://catalog.onliner.by/notebook/asus/ga402rkl8171w",
         "price_base": "7999.00 BYN",
-        "price_sale": "7525.00 BYN",
-        "discount_percent": 6
+        "price_sale": "7245.00 BYN",
+        "discount_percent": 9
     },
     {
         "title": "ASUS TUF Gaming A17 FA706ICB-HX063",
@@ -143,7 +157,7 @@
         "title": "Lenovo Legion 5 Pro 16ITH6 82JF0082RK",
         "link": "https://catalog.onliner.by/notebook/lenovo/82jf0082rk",
         "price_base": "4699.00 BYN",
-        "price_sale": "4389.00 BYN",
+        "price_sale": "4380.00 BYN",
         "discount_percent": 7
     },
     {
@@ -156,44 +170,30 @@
     {
         "title": "Lenovo IdeaPad 3 15ITL6 82H8010LRK",
         "link": "https://catalog.onliner.by/notebook/lenovo/82h8010lrk",
-        "price_base": "2899.00 BYN",
-        "price_sale": "2599.00 BYN",
-        "discount_percent": 10
+        "price_base": "2799.00 BYN",
+        "price_sale": "2589.00 BYN",
+        "discount_percent": 8
     },
     {
         "title": "Lenovo V15 G3 IAP 82TT003WRU",
         "link": "https://catalog.onliner.by/notebook/lenovo/82tt003wru",
         "price_base": "2599.00 BYN",
-        "price_sale": "2309.00 BYN",
+        "price_sale": "2305.00 BYN",
         "discount_percent": 11
     },
     {
         "title": "Lenovo ThinkBook 15 G2 ITL 20VE00XFRU",
         "link": "https://catalog.onliner.by/notebook/lenovo/20ve00xfru",
         "price_base": "2099.00 BYN",
-        "price_sale": "1899.00 BYN",
-        "discount_percent": 10
-    },
-    {
-        "title": "Lenovo Legion 5 Pro 16ARH7H 82RG00A8PB",
-        "link": "https://catalog.onliner.by/notebook/lenovo/82rg00a8pb",
-        "price_base": "6049.00 BYN",
-        "price_sale": "5699.00 BYN",
-        "discount_percent": 6
-    },
-    {
-        "title": "Huawei MateBook 14 2021 KLVD-WFH9 53012PCH",
-        "link": "https://catalog.onliner.by/notebook/huawei/53012pch",
-        "price_base": "3326.40 BYN",
-        "price_sale": "3099.00 BYN",
-        "discount_percent": 7
+        "price_sale": "1909.00 BYN",
+        "discount_percent": 9
     },
     {
         "title": "HP 15s-eq2011ny 4A3U5EA",
         "link": "https://catalog.onliner.by/notebook/hp/4a3u5ea",
-        "price_base": "3199.00 BYN",
-        "price_sale": "2342.10 BYN",
-        "discount_percent": 27
+        "price_base": "2984.78 BYN",
+        "price_sale": "2195.00 BYN",
+        "discount_percent": 26
     },
     {
         "title": "ASUS TUF Gaming F15 FX506LHB-HN345W",
@@ -206,7 +206,7 @@
         "title": "ASUS TUF Gaming Dash F15 FX516PM-211.TF15",
         "link": "https://catalog.onliner.by/notebook/asus/fx516pm211tf15",
         "price_base": "5462.10 BYN",
-        "price_sale": "4452.00 BYN",
+        "price_sale": "4479.60 BYN",
         "discount_percent": 18
     },
     {
@@ -217,20 +217,6 @@
         "discount_percent": 16
     },
     {
-        "title": "HP 15s-fq2204nw 4H392EA",
-        "link": "https://catalog.onliner.by/notebook/hp/4h392ea",
-        "price_base": "1977.50 BYN",
-        "price_sale": "1755.00 BYN",
-        "discount_percent": 11
-    },
-    {
-        "title": "Lenovo Legion 5 Pro 16IAH7H 82RF00ETPB",
-        "link": "https://catalog.onliner.by/notebook/lenovo/82rf00etpb",
-        "price_base": "4950.00 BYN",
-        "price_sale": "4444.00 BYN",
-        "discount_percent": 10
-    },
-    {
         "title": "Huawei MateBook D 15 AMD BoM-WDQ9 53013HSR",
         "link": "https://catalog.onliner.by/notebook/huawei/53013hsr",
         "price_base": "2499.00 BYN",
@@ -238,53 +224,88 @@
         "discount_percent": 9
     },
     {
+        "title": "Huawei MateBook D 15 AMD BoM-WDQ9 53013JJX",
+        "link": "https://catalog.onliner.by/notebook/huawei/53013jjx",
+        "price_base": "2348.50 BYN",
+        "price_sale": "2180.00 BYN",
+        "discount_percent": 7
+    },
+    {
+        "title": "Acer Extensa 15 EX215-52-53U4 NX.EG8ER.00B",
+        "link": "https://catalog.onliner.by/notebook/acer/nxeg8er00b",
+        "price_base": "1799.00 BYN",
+        "price_sale": "1562.00 BYN",
+        "discount_percent": 13
+    },
+    {
+        "title": "Lenovo IdeaPad 3 15ALC6 82KU018FPB",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82ku018fpb",
+        "price_base": "2050.00 BYN",
+        "price_sale": "1807.00 BYN",
+        "discount_percent": 12
+    },
+    {
         "title": "HP Pavilion 15-eh1130ur 638D3EA",
         "link": "https://catalog.onliner.by/notebook/hp/638d3ea",
         "price_base": "2599.00 BYN",
-        "price_sale": "2390.00 BYN",
+        "price_sale": "2388.00 BYN",
         "discount_percent": 8
-    },
-    {
-        "title": "HP 15s-eq2068ur 4C8P2EA",
-        "link": "https://catalog.onliner.by/notebook/hp/4c8p2ea",
-        "price_base": "2390.00 BYN",
-        "price_sale": "2080.00 BYN",
-        "discount_percent": 13
     },
     {
         "title": "ASUS ROG Strix G15 G513IE-HN003T",
         "link": "https://catalog.onliner.by/notebook/asus/g513iehn003t",
-        "price_base": "3444.50 BYN",
+        "price_base": "3440.00 BYN",
         "price_sale": "3119.00 BYN",
         "discount_percent": 9
     },
     {
-        "title": "Lenovo Legion 5 15ACH6H 82JU00TGPB",
-        "link": "https://catalog.onliner.by/notebook/lenovo/82ju00tgpb",
-        "price_base": "3990.00 BYN",
-        "price_sale": "3699.00 BYN",
-        "discount_percent": 7
+        "title": "Xiaomi RedmiBook Pro 15 2022 Ryzen Edition JYU4473CN",
+        "link": "https://catalog.onliner.by/notebook/xiaomi/jyu4473cn",
+        "price_base": "3876.00 BYN",
+        "price_sale": "2879.00 BYN",
+        "discount_percent": 26
+    },
+    {
+        "title": "Xiaomi RedmiBook Pro 15 2022 Ryzen Edition JYU4474CN",
+        "link": "https://catalog.onliner.by/notebook/xiaomi/jyu4474cn",
+        "price_base": "3250.00 BYN",
+        "price_sale": "2719.00 BYN",
+        "discount_percent": 16
     },
     {
         "title": "HP ProBook 455 G8 4K7E8EA",
         "link": "https://catalog.onliner.by/notebook/hp/4k7e8ea",
         "price_base": "3633.00 BYN",
-        "price_sale": "3311.40 BYN",
-        "discount_percent": 9
+        "price_sale": "3086.10 BYN",
+        "discount_percent": 15
     },
     {
-        "title": "HP Omen 16-b0105nw 4Y0W4EA",
-        "link": "https://catalog.onliner.by/notebook/hp/4y0w4ea",
-        "price_base": "5599.00 BYN",
-        "price_sale": "4599.00 BYN",
-        "discount_percent": 18
+        "title": "Xiaomi Book Pro 16 OLED 2022 JYU4487CN",
+        "link": "https://catalog.onliner.by/notebook/xiaomi/jyu4487cn",
+        "price_base": "5642.00 BYN",
+        "price_sale": "4159.00 BYN",
+        "discount_percent": 26
+    },
+    {
+        "title": "Xiaomi Book Pro 16 OLED 2022 JYU4468CN",
+        "link": "https://catalog.onliner.by/notebook/xiaomi/jyu4468cn",
+        "price_base": "3699.00 BYN",
+        "price_sale": "3419.00 BYN",
+        "discount_percent": 8
     },
     {
         "title": "Dell G15 5511-6235",
         "link": "https://catalog.onliner.by/notebook/dell/55116235",
         "price_base": "2790.00 BYN",
-        "price_sale": "2600.00 BYN",
+        "price_sale": "2595.00 BYN",
         "discount_percent": 7
+    },
+    {
+        "title": "Huawei MateBook D 14 2021 NbD-WDI9 53013ERK",
+        "link": "https://catalog.onliner.by/notebook/huawei/53013erk",
+        "price_base": "1979.00 BYN",
+        "price_sale": "1790.10 BYN",
+        "discount_percent": 10
     },
     {
         "title": "HP Pavilion Gaming 15-ec2087nq 5D4W9EA",
@@ -303,14 +324,14 @@
     {
         "title": "MSI Modern 14 B5M-238XBY",
         "link": "https://catalog.onliner.by/notebook/msi/b5m238xby",
-        "price_base": "2296.48 BYN",
+        "price_base": "2267.30 BYN",
         "price_sale": "2099.00 BYN",
-        "discount_percent": 9
+        "discount_percent": 7
     },
     {
         "title": "MSI Modern 15 A5M-294XBY",
         "link": "https://catalog.onliner.by/notebook/msi/a5m294xby",
-        "price_base": "2670.00 BYN",
+        "price_base": "2669.50 BYN",
         "price_sale": "2490.00 BYN",
         "discount_percent": 7
     },
@@ -345,8 +366,8 @@
     {
         "title": "HP 250 G8 45R44EA",
         "link": "https://catalog.onliner.by/notebook/hp/45r44ea",
-        "price_base": "1944.38 BYN",
-        "price_sale": "1659.00 BYN",
+        "price_base": "1942.50 BYN",
+        "price_sale": "1649.39 BYN",
         "discount_percent": 15
     },
     {
@@ -366,8 +387,8 @@
     {
         "title": "HP Victus 16-e0174nw 4H3Z3EA",
         "link": "https://catalog.onliner.by/notebook/hp/4h3z3ea",
-        "price_base": "3071.83 BYN",
-        "price_sale": "2830.00 BYN",
+        "price_base": "3034.85 BYN",
+        "price_sale": "2800.00 BYN",
         "discount_percent": 8
     },
     {
@@ -376,13 +397,6 @@
         "price_base": "2300.00 BYN",
         "price_sale": "1999.00 BYN",
         "discount_percent": 13
-    },
-    {
-        "title": "Lenovo IdeaPad Gaming 3 15ACH6 82K200NLPB",
-        "link": "https://catalog.onliner.by/notebook/lenovo/82k200nlpb",
-        "price_base": "2759.00 BYN",
-        "price_sale": "2519.00 BYN",
-        "discount_percent": 9
     },
     {
         "title": "Lenovo IdeaPad 3 15IGL05 81WQ0069RK",
@@ -395,15 +409,8 @@
         "title": "MSI Katana GF66 11UC-865XPL",
         "link": "https://catalog.onliner.by/notebook/msi/11uc865xpl",
         "price_base": "2799.00 BYN",
-        "price_sale": "2530.00 BYN",
-        "discount_percent": 10
-    },
-    {
-        "title": "ASUS ROG Strix G15 G513RM-HQ079",
-        "link": "https://catalog.onliner.by/notebook/asus/g513rmhq079",
-        "price_base": "5439.00 BYN",
-        "price_sale": "4997.00 BYN",
-        "discount_percent": 8
+        "price_sale": "2500.00 BYN",
+        "discount_percent": 11
     },
     {
         "title": "HP Pavilion 15-eh1094ur 55C79EA",
@@ -415,8 +422,8 @@
     {
         "title": "Acer Nitro 5 AN515-45-R1MW NH.QBREP.00J",
         "link": "https://catalog.onliner.by/notebook/acer/nhqbrep00j",
-        "price_base": "4699.00 BYN",
-        "price_sale": "4280.00 BYN",
+        "price_base": "4698.00 BYN",
+        "price_sale": "4260.00 BYN",
         "discount_percent": 9
     },
     {
@@ -436,21 +443,28 @@
     {
         "title": "ASUS X515JA-BQ2262",
         "link": "https://catalog.onliner.by/notebook/asus/x515jabq2262",
-        "price_base": "3474.93 BYN",
+        "price_base": "3471.58 BYN",
         "price_sale": "2759.00 BYN",
         "discount_percent": 21
     },
     {
+        "title": "MSI Thin GF63 11UC-214XPL",
+        "link": "https://catalog.onliner.by/notebook/msi/11uc214xpl",
+        "price_base": "3180.00 BYN",
+        "price_sale": "2915.00 BYN",
+        "discount_percent": 8
+    },
+    {
         "title": "ASUS VivoBook E410MA-EK1329",
         "link": "https://catalog.onliner.by/notebook/asus/e410maek1329",
-        "price_base": "1124.98 BYN",
-        "price_sale": "1014.30 BYN",
+        "price_base": "1124.08 BYN",
+        "price_sale": "1010.00 BYN",
         "discount_percent": 10
     },
     {
         "title": "ASUS ROG Strix G15 G513IE-HN003",
         "link": "https://catalog.onliner.by/notebook/asus/g513iehn003",
-        "price_base": "3398.50 BYN",
+        "price_base": "3398.00 BYN",
         "price_sale": "3079.00 BYN",
         "discount_percent": 9
     },

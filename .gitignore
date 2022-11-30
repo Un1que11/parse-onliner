@@ -1,0 +1,5 @@
+dist/
+.venv/
+index.html
+result.json
+result_data.json

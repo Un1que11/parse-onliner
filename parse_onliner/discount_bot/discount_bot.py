@@ -14,16 +14,16 @@ dp = Dispatcher(bot)
 
 @dp.message_handler(commands='start')
 async def start(message: types.Message):
-    start_buttons = ['Notebooks']
+    start_buttons = ['Laptops']
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
     keyboard.add(*start_buttons)
 
     await message.answer('Discounted items', reply_markup=keyboard)
 
 
-@dp.message_handler(Text(equals='Notebooks'))
+@dp.message_handler(Text(equals='Laptops'))
 async def get_discount_notebook(message: types.Message):
-    await message.answer('Please waiting...')
+    await message.answer('Please wait...')
 
     collect_data()
 
